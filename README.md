@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel.svg?branch=master)](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel)
 
+> ### This project is modification of original [bpmn-js-properties-panel](https://github.com/bpmn-io/bpmn-js-properties-panel).
+
 This is properties panel extension for [bpmn-js](https://github.com/bpmn-io/bpmn-js).
 
 [![bpmn-js-properties-panel screenshot](https://raw.githubusercontent.com/bpmn-io/bpmn-js-properties-panel/master/docs/screenshot.png "Screenshot of the bpmn-js modeler + properties panel")](https://github.com/bpmn-io/bpmn-js-examples/tree/master/properties-panel)
