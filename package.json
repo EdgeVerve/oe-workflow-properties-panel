@@ -1,6 +1,6 @@
 {
   "name": "oe-workflow-properties-panel",
-  "version": "1.4.0",
+  "version": "1.8.0",
   "description": "Properties panel for the oeClouds Workflow modeler",
   "main": "index.js",
   "directories": {
